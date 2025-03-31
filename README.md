@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a passionate **Software Developer & Data Engineer** with a strong background in **Python, Kubernetes, DevOps, and Data Engineering**. My experience spans across cloud platforms like **Azure, OpenShift**, and I specialize in automating infrastructure, optimizing ML models, and deploying scalable applications.
 
-📍 Based in Toronto, Canada 🇨🇦 | Open to exciting opportunities in **Data Engineering, Machine Learning, and DevOps.**
 
 ## 🛠️ Technical Skills
 - **Programming & Scripting:** Python, Spark, Bash, Shell Scripting, Ansible  
